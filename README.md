@@ -1,2 +1,2 @@
-# Design Gráfico
-Conteúdo da Aula de Design Gráfico
+# Design Gráfico - TMSI
+Conteúdo da Aula de Design Gráfico do Curso Técnico de TMSI
